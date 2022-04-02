@@ -1,7 +1,7 @@
 // index.js
 // author: Keita Watanabe
 
-// initialize map
+// Initialize map
 // accesstokenはできれば自分のものを. とりあえず動かす用にコメントアウトしておいておきます。
 mapboxgl.accessToken = 'pk.eyJ1Ijoia3dhdGFuYWJlMTk5OCIsImEiOiJja29tNnQyNnIwZXZxMnVxdHQ1aXllMGRiIn0.ebm4ShyOk1Mp-W1xs0G_Ag';
 
